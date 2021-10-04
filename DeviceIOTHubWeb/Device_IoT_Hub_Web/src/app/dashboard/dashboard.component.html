@@ -1,0 +1,16 @@
+<app-total-variables [deviceId]="streamData.deviceId" ></app-total-variables>
+
+<div class="row">
+    <!-- <app-temperature [temp]="streamData.temperature" [deviceId]="streamData.deviceId">
+
+    </app-temperature>
+    <app-humidity [humidity]="streamData.humidity" [deviceId]="streamData.deviceId">
+
+    </app-humidity> -->
+</div>
+<!-- ============================================================== -->
+<!-- Sales chart -->
+<!-- ============================================================== -->
+<device-graph [temp]="streamData.temperature" [humidity]="streamData.humidity">
+
+</device-graph>

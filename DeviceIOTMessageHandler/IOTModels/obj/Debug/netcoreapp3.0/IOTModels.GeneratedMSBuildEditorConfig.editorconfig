@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IOTModels
+build_property.ProjectDir = D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTModels\

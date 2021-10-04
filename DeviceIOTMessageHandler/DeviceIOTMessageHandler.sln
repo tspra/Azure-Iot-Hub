@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTDeviceMessageService", "IOTMessageHandlerService\IOTDeviceMessageService.csproj", "{5A7ECDC6-E51A-49E9-BDC1-CDD06C5DB313}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTDeviceMessageRepository", "IOTMessageContext\IOTDeviceMessageRepository.csproj", "{2B6C0FDA-4117-4083-8A25-02BFCF2A520B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTDeviceMessageModel", "IOTModels\IOTDeviceMessageModel.csproj", "{C41F9377-7501-4338-A0FC-9CF15DD75D5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTDeviceMessage", "IOTDeviceMessage\IOTDeviceMessage.csproj", "{AF9FBAD6-62CB-4297-9238-C8DF40A3BA42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTDeviceMessageServiceTest", "IOTDeviceMessageServiceTest\IOTDeviceMessageServiceTest.csproj", "{3B78C265-C743-42D4-B25C-3A39DA477F5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOTDeviceMessageRepositoryTest", "IOTDeviceMessageRepositoryTest\IOTDeviceMessageRepositoryTest.csproj", "{5865009D-8C60-4EEB-A3CF-C9109426BC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A7ECDC6-E51A-49E9-BDC1-CDD06C5DB313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7ECDC6-E51A-49E9-BDC1-CDD06C5DB313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7ECDC6-E51A-49E9-BDC1-CDD06C5DB313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7ECDC6-E51A-49E9-BDC1-CDD06C5DB313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6C0FDA-4117-4083-8A25-02BFCF2A520B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6C0FDA-4117-4083-8A25-02BFCF2A520B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6C0FDA-4117-4083-8A25-02BFCF2A520B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6C0FDA-4117-4083-8A25-02BFCF2A520B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41F9377-7501-4338-A0FC-9CF15DD75D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41F9377-7501-4338-A0FC-9CF15DD75D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41F9377-7501-4338-A0FC-9CF15DD75D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41F9377-7501-4338-A0FC-9CF15DD75D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9FBAD6-62CB-4297-9238-C8DF40A3BA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9FBAD6-62CB-4297-9238-C8DF40A3BA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9FBAD6-62CB-4297-9238-C8DF40A3BA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9FBAD6-62CB-4297-9238-C8DF40A3BA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B78C265-C743-42D4-B25C-3A39DA477F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B78C265-C743-42D4-B25C-3A39DA477F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B78C265-C743-42D4-B25C-3A39DA477F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B78C265-C743-42D4-B25C-3A39DA477F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5865009D-8C60-4EEB-A3CF-C9109426BC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5865009D-8C60-4EEB-A3CF-C9109426BC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5865009D-8C60-4EEB-A3CF-C9109426BC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5865009D-8C60-4EEB-A3CF-C9109426BC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFFB77E9-7374-45D3-A519-1ECFE35BD9F5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,206 @@
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ConsoleappIoT.exe.config
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ConsoleappIoT.exe
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ConsoleappIoT.pdb
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Buffers.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Codecs.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Common.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Handlers.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Transport.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PCLCrypto.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Spatial.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Web.Http.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Validation.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Buffers.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Codecs.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Common.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Handlers.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\DotNetty.Transport.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.Client.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PCLCrypto.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Spatial.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\System.Web.Http.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Validation.xml
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\obj\Debug\ConsoleappIoT.csproj.AssemblyReference.cache
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\obj\Debug\ConsoleappIoT.csproj.CoreCompileInputs.cache
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\obj\Debug\ConsoleappIoT.csproj.CopyComplete
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\obj\Debug\ConsoleappIoT.exe
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\obj\Debug\ConsoleappIoT.pdb
+C:\Users\1034807\Downloads\IoTHubConsoleApp-master\ConsoleappIoT\ConsoleappIoT\bin\Debug\Mono.Security.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ConsoleappIoT.exe.config
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ConsoleappIoT.exe
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ConsoleappIoT.pdb
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Buffers.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Codecs.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Codecs.Mqtt.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Common.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Handlers.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Transport.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.Client.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Data.Edm.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Data.OData.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Mono.Security.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Newtonsoft.Json.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PCLCrypto.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.BCrypt.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.Kernel32.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.NCrypt.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.Windows.Core.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Net.Http.Formatting.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Spatial.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Web.Http.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Validation.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Buffers.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Codecs.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Codecs.Mqtt.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Common.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Handlers.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\DotNetty.Transport.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Azure.Devices.Client.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Data.Edm.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Data.OData.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Newtonsoft.Json.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PCLCrypto.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.BCrypt.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.Kernel32.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.NCrypt.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\PInvoke.Windows.Core.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Net.Http.Formatting.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Spatial.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\System.Web.Http.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\Validation.xml
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\de\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\es\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\fr\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\it\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ja\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ko\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\ru\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\obj\Debug\ConsoleappIoT.csproj.AssemblyReference.cache
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\obj\Debug\ConsoleappIoT.csproj.CoreCompileInputs.cache
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\obj\Debug\ConsoleappIoT.csproj.CopyComplete
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\obj\Debug\ConsoleappIoT.exe
+D:\Technical Data\Azure IOT\DeviceToIOTHubMessage\ConsoleappIoT\obj\Debug\ConsoleappIoT.pdb

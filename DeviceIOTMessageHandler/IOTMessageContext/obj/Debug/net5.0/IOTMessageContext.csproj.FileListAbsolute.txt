@@ -1,0 +1,15 @@
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\bin\Debug\net5.0\IOTMessageContext.deps.json
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\bin\Debug\net5.0\IOTMessageContext.dll
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\bin\Debug\net5.0\ref\IOTMessageContext.dll
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\bin\Debug\net5.0\IOTMessageContext.pdb
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.csproj.AssemblyReference.cache
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.AssemblyInfoInputs.cache
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.AssemblyInfo.cs
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.csproj.CoreCompileInputs.cache
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.dll
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\ref\IOTMessageContext.dll
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.pdb
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\bin\Debug\net5.0\IOTModels.dll
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\bin\Debug\net5.0\IOTModels.pdb
+D:\Technical Data\Azure IOT\DeviceIOTMessageHandler\IOTMessageContext\obj\Debug\net5.0\IOTMessageContext.csproj.CopyComplete

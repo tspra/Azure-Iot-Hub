@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IOTMessageHandlerService/1.0.0": {
+        "dependencies": {
+          "IOTMessageContext": "1.0.0",
+          "IOTModels": "1.0.0"
+        },
+        "runtime": {
+          "IOTMessageHandlerService.dll": {}
+        }
+      },
+      "IOTMessageContext/1.0.0": {
+        "dependencies": {
+          "IOTModels": "1.0.0"
+        },
+        "runtime": {
+          "IOTMessageContext.dll": {}
+        }
+      },
+      "IOTModels/1.0.0": {
+        "runtime": {
+          "IOTModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IOTMessageHandlerService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOTMessageContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOTModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

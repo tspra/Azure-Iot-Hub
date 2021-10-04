@@ -1,0 +1,63 @@
+<div id="main-wrapper" [ngClass]="{'show-sidebar': showMobileMenu}" dir="ltr" data-theme="light" data-layout="vertical"
+    [attr.data-sidebartype]="sidebartype" data-sidebar-position="absolute" data-header-position="fixed"
+    data-boxed-layout="full">
+
+    <header class="topbar" data-navbarbg="skin6">
+        <nav class="d-flex top-navbar navbar-expand-md navbar-light">
+            <div class="navbar-header" [ngClass]="(expandLogo)?'expand-logo':''" data-logobg="skin6">
+                <!-- This is for the sidebar toggle which is visible on mobile only -->
+                <a (click)="showMobileMenu = !showMobileMenu"
+                    class="nav-toggler waves-effect waves-light d-block d-md-none" href="javascript:void(0)">
+                    <i [ngClass]="(showMobileMenu)?'ti-close':'ti-menu'"></i>
+                </a>
+
+                <a class="navbar-brand" href="/">
+
+                    <b class="logo-icon">
+
+                        <img src="assets/images/IoT.png" width = "35" heigth="30" class="dark-logo" alt="homepage" />
+                    </b>
+
+                    <span class="logo-text">
+
+                        Azure IoT Monitor
+                    </span>
+                </a>
+
+                <a class="topbartoggler d-block d-md-none waves-effect waves-light" href="javascript:void(0)"
+                    data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="ti-more"></i>
+                </a>
+            </div>
+
+            <div class="navbar-collapse collapse" id="navbarSupportedContent" data-navbarbg="skin5">
+                <app-navigation (toggleSidebar)="toggleSidebarType()" class="w-100"></app-navigation>
+            </div>
+        </nav>
+    </header>
+
+    <aside class="left-sidebar" data-sidebarbg="skin6" (mouseover)="Logo()" (mouseout)="Logo()">
+
+        <div class="scroll-sidebar" [perfectScrollbar]="config">
+            <app-sidebar></app-sidebar>
+        </div>
+
+    </aside>
+
+    <div class="page-wrapper">
+
+
+        <div class="container-fluid">
+
+            <router-outlet></router-outlet>
+
+        </div>
+
+        <footer class="footer text-center">
+           
+        </footer>
+
+    </div>
+
+</div>
