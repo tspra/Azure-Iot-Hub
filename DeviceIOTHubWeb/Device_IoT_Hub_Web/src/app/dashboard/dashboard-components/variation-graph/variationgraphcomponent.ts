@@ -1,5 +1,5 @@
 import { Component, OnInit, OnChanges, SimpleChanges, Input } from '@angular/core';
-import * as Highcharts from 'highcharts';
+
 
 @Component({
   selector: 'device-graph',
@@ -11,20 +11,22 @@ export class variationgraphcomponent implements OnInit {
   public lineChartType = 'line';
   @Input() temp: any;
   @Input() humidity: any;
-  public tempData :any= [];
-  public humidityData :any = [];
+  public tempData: any = [];
+  public humidityData: any = [];
   constructor() {
 
   }
 
   ngOnInit() {
-    this.humidity = {
+    // this .lineChartData = [
+    //   { data: [32,34,35,26,28,37,31,40,42,28,30,32,26], label: 'Temperature' },
+    //   { data: [72,75,77,64,68,70,73,75,72,71,75,80,78], label: 'Humidity' }
+    // ];
+    // let count = this.lineChartData[0].data.length;
 
-    }
-    this.temp = {
-
-    }
-
+    // for(let n = 1; n <= count; n++){
+    //      this.lineChartLabels.push(n);
+    //   }
   }
 
 
@@ -32,65 +34,54 @@ export class variationgraphcomponent implements OnInit {
   // lineChart
   public lineChartData: Array<any> = [
     { data: [], label: 'Temperature' },
-    { data: [], label: 'Humidity' }
+       { data: [], label: 'Humidity' }
   ];
+  public lineChartLabels: Array<number> = [1,2,3,4,5,6,7];
 
-
-  public lineChartLabels: Array<string> = [
-    '20',
-    '30',
-    '40',
-    '50',
-    '60',
-    '70',
-    '80',
-    '90',
-  ];
 
   public lineChartOptions = {
     responsive: true,
-    maintainAspectRatio: false
+    maintainAspectRatio: true,
+    scales: {
+      yAxes: [{
+        id: 'Temperature',
+        type: 'linear',
+        scaleLabel: {
+          labelString: 'Temperature (ºC)',
+          display: true,
+        },
+        position: 'left',
+      }
+      ]
+
+    }
+
   };
 
-  public lineChartColors: Array<Object> = [
-    {
-      // grey
-      backgroundColor: 'rgba(41, 98, 255,0.1)',
-      borderColor: '#98a6ad',
-      pointBackgroundColor: '#98a6ad',
-      pointBorderColor: '#fff',
-      pointHoverBackgroundColor: '#fff',
-      pointHoverBorderColor: '#98a6ad'
-    },
-    {
-      // dark grey
-      backgroundColor: 'rgba(116, 96, 238,0.1)',
-      borderColor: '#2cabe3',
-      pointBackgroundColor: '#2cabe3',
-      pointBorderColor: '#fff',
-      pointHoverBackgroundColor: '#fff',
-      pointHoverBorderColor: '#2cabe3'
-    }
-  ];
-  ngOnChanges(changes: SimpleChanges) {
-   
-    if (changes.humidity && changes.temp) 
-    {
 
+
+  ngOnChanges(changes: SimpleChanges) {
+
+    if (changes.humidity && changes.temp) {
+
+      this.lineChartLabels = [];
       let tempData = this.lineChartData[0];
       let humData = this.lineChartData[1];
-      if(changes.temp.currentValue)
-      {
+      if (changes.temp.currentValue) {
         tempData.data.push(changes.temp.currentValue);
       }
-     if(changes.humidity.currentValue)
-     {
-      humData.data.push(changes.humidity.currentValue);
-     }
+      if (changes.humidity.currentValue) {
+        humData.data.push(changes.humidity.currentValue);
+      }
       this.lineChartData = [];
       this.lineChartData.push(tempData);
       this.lineChartData.push(humData);
 
+      let count = this.lineChartData[0].data.length;
+
+      for (let n = 1; n <= count; n++) {
+        this.lineChartLabels.push(n);
+      }
     }
   }
 
