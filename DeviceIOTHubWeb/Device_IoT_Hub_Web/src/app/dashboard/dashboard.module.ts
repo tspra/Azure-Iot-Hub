@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FormsModule } from '@angular/forms';
+import {FormsModule ,ReactiveFormsModule } from '@angular/forms';
 import { Routes, RouterModule } from '@angular/router';
 import { ChartsModule } from 'ng2-charts';
 import { DashboardComponent } from './dashboard.component';
@@ -11,6 +11,7 @@ import { HumidityComponent } from './dashboard-components/humidity/humidity.comp
 import { NgxGaugeModule } from 'ngx-gauge';
 import { MatCardModule} from '@angular/material/card';   
 import { HighchartsChartModule } from 'highcharts-angular';
+import { BrowserModule } from '@angular/platform-browser';
 
 
 const routes: Routes = [
@@ -28,12 +29,13 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [FormsModule, CommonModule, RouterModule.forChild(routes), ChartsModule,
+  imports: [ CommonModule,
+    FormsModule,
+    ReactiveFormsModule,RouterModule.forChild(routes), ChartsModule,
     NgxGaugeModule,MatCardModule,HighchartsChartModule],
   declarations: [DashboardComponent, 
     TotalVariablesComponent, variationgraphcomponent, TemperatureComponent,
     HumidityComponent
-    
     ]
 })
 export class DashboardModule {

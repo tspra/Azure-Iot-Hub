@@ -7,7 +7,7 @@ import {
   PathLocationStrategy
 } from '@angular/common';
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule ,ReactiveFormsModule} from '@angular/forms';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { Routes, RouterModule } from '@angular/router';
 
@@ -24,16 +24,14 @@ import { AppComponent } from './app.component';
 import { SpinnerComponent } from './shared/spinner.component';
 
 import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
-import { PERFECT_SCROLLBAR_CONFIG } from 'ngx-perfect-scrollbar';
+
 import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
 
+import { StoreModule } from '@ngrx/store';
+import {  UserReducer } from './store/reducers';
 
-const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
-  suppressScrollX: true,
-  wheelSpeed: 1,
-  wheelPropagation: true,
-  minScrollbarLength: 20
-};   
+
+   
 
 @NgModule({
   declarations: [
@@ -46,23 +44,18 @@ const DEFAULT_PERFECT_SCROLLBAR_CONFIG: PerfectScrollbarConfigInterface = {
   imports: [
     CommonModule,
     BrowserModule,
-    BrowserAnimationsModule,
     FormsModule,
+    ReactiveFormsModule,
+    BrowserAnimationsModule,
     HttpClientModule,
-	PerfectScrollbarModule,
+	  PerfectScrollbarModule,
     NgbModule,
-    RouterModule.forRoot(Approutes, { useHash: false, relativeLinkResolution: 'legacy' })
+    RouterModule.forRoot(Approutes, { useHash: false, relativeLinkResolution: 'legacy' }),
+     StoreModule.forRoot({
+      users : UserReducer
+       })
   ],
-  providers: [
-    {
-      provide: LocationStrategy,
-      useClass: PathLocationStrategy
-    },
-	{
-      provide: PERFECT_SCROLLBAR_CONFIG,
-      useValue: DEFAULT_PERFECT_SCROLLBAR_CONFIG
-    }
-  ],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule {}

@@ -1,13 +1,13 @@
-<div class="row">
-    <!-- column -->
+<!-- <div class="row">
+   
     <div class="col-12">
         <div class="card">
             <div class="card-body">
-                <!-- title -->
+               
                 <div class="d-md-flex align-items-center">
                     <div>
                         <h4 class="card-title font-16 text-uppercase">RECENT SALES</h4>
-                        <!-- <h5 class="card-subtitle">Overview of Top Selling Items</h5> -->
+                      
                     </div>
                     <div class="ml-auto">
                         <div class="dl">
@@ -20,7 +20,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- title -->
+              
 
                 <div class="table-responsive">
                     <table class="table v-middle nowrap">
@@ -56,4 +56,38 @@
         </div>
     </div>
 
-</div>
+</div> -->
+
+
+<div id="wrapper">
+    <div id="users-list">
+    <div id="list">
+    <h2>Users List (App Component)</h2>
+    <div class="container">
+    <div class="headers">
+    <div>Name</div>
+    <div>Age</div>
+    <div>Address</div>
+    <div>Email</div>
+    <div><a>ADD USER</a></div>
+    </div>
+    <div class="headers">
+      <div><input type="text"
+        [(ngModel)]="userinput.name" name="name" /></div> 
+    <div><input type="text" [(ngModel)]="userinput.age" name="age"/></div>
+    <div><input type="text" [(ngModel)]="userinput.address" name="address"/></div>
+    <div><input type="text" [(ngModel)]="userinput.email" name="mail"/></div>
+    <div><input type="button" value="Save User" (click)="saveUser()" /></div> 
+    </div>
+    <div class="item" *ngFor="let user of userslist">
+    <div>{{user.name}}</div>
+    <div>{{user.age}}</div>
+    <div>{{user.addres }}</div>
+    <div>{{user.email}}</div>
+    <div><a href="javascript:void(0);" (click)="deleteUser(user.id)">DELETE</a></div>
+    </div>
+    </div>
+    </div>
+    </div>
+   
+    </div>
