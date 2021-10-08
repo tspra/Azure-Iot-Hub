@@ -79,7 +79,8 @@
     <div><input type="text" [(ngModel)]="userinput.email" name="mail"/></div>
     <div><input type="button" value="Save User" (click)="saveUser()" /></div> 
     </div>
-    <div class="item" *ngFor="let user of userslist">
+    <!-- ngFor="let pizza of pizzas$ | async; index as i" -->
+    <div class="item" *ngFor="let user of (localUserList | async).userList;">
     <div>{{user.name}}</div>
     <div>{{user.age}}</div>
     <div>{{user.addres }}</div>

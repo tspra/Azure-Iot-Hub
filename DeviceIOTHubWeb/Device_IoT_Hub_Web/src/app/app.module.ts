@@ -28,8 +28,7 @@ import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
 import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
 
 import { StoreModule } from '@ngrx/store';
-import {  UserReducer } from './store/reducers';
-
+import { reducers } from './store/reducers';
 
    
 
@@ -51,9 +50,7 @@ import {  UserReducer } from './store/reducers';
 	  PerfectScrollbarModule,
     NgbModule,
     RouterModule.forRoot(Approutes, { useHash: false, relativeLinkResolution: 'legacy' }),
-     StoreModule.forRoot({
-      users : UserReducer
-       })
+    StoreModule.forRoot(reducers)
   ],
   providers: [],
   bootstrap: [AppComponent]
