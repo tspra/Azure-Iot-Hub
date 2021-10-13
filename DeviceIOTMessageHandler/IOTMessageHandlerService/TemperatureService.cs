@@ -18,6 +18,11 @@ namespace IOTMessageHandlerService
             this.temperatureMessageContext = temperatureMessageContext;
         }
 
+        public Task<List<Temperature>> GetItems()
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task SaveAsync(IOTModels.Temperature item)
         {
             await this.temperatureMessageContext.AddItemAsync(item);

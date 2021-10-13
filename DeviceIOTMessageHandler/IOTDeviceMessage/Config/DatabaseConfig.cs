@@ -28,8 +28,10 @@ namespace IOTDeviceMessage.Config
             builder.AddCosmosDb(endpoint,
                                  key,
                               database,
-                                new List<ContainerInfo> { new ContainerInfo { Name = "message" , PartitionKey = "/deviceId" }  });
+                                new List<ContainerInfo> { new ContainerInfo { Name = "message" , PartitionKey = "/deviceId" },
+                                new ContainerInfo { Name = "patients" , PartitionKey = "/patientId" }});
             builder.Services.AddSingleton<ITemperatureContext, TemperatureContext>();
+            builder.Services.AddSingleton<IPatientContext, PatientContext>();
         }
     }
 }

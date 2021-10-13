@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=deviceiotmessagestorage;AccountKey=HeE+Po2+7xv44Y+M/4cUmBg8JCaDW2cPgBhgWeCOjryeKEnRxkrhfhITHjLXHa9zJEHUXuvLcb4rjt+C9fCHKg==;EndpointSuffix=core.windows.net",
+    "AzureStorageAccount": "DefaultEndpointsProtocol=https;AccountName=deviceiotmessagestorage;AccountKey=HeE+Po2+7xv44Y+M/4cUmBg8JCaDW2cPgBhgWeCOjryeKEnRxkrhfhITHjLXHa9zJEHUXuvLcb4rjt+C9fCHKg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosEndpointUrl": "https://deviceiotmessages.documents.azure.com:443/",
+    "CosmosPrimaryKey": "9pbFXCChqYlaEMfnvH0amBlB9AqVMwIyR3TdFQqSm3BmQ8zdZewYqdpFMqC7RSJXMdZSRj0q1J5VPvCaYlMGEQ==",
+    "DatabaseName": "messages",
+    "IoTHubTriggerConnection": "Endpoint=sb://iothub-ns-deviceioth-14854315-1b739f779f.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=5p+cZFIdfhz3TaeaICF+MSq1qidOwPkO8QfJdI7unk4=;EntityPath=deviceiothubdemo",
+    "AzureSignalRConnectionString": "Endpoint=https://iotsignlr.service.signalr.net;AccessKey=ja6ZxQG34ST+I3+UUi2VZdrcrD3EcP0FfHkx/CvmgAo=;Version=1.0;"
+  },
+
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*"
+  }
+}

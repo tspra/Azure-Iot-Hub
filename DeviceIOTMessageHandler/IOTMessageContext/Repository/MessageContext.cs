@@ -1,4 +1,5 @@
 ﻿using IOTDeviceMessageModel.Base;
+using IOTDeviceMessageRepository.Helper;
 using IOTDeviceMessageRepository.Interface;
 using IOTMessageContext.Interface;
 using IOTModels;
@@ -49,6 +50,26 @@ namespace IOTMessageContext
         public Task UpdateItemAsync(string id, T item)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task<List<T>> GetItems()
+        {
+            var results = new List<T>();
+
+            QueryDefinition definition = new QueryDefinition(QueryHelper.WhereClasue);
+
+            var iterator = container.GetItemQueryIterator<T>(definition);
+
+            while (iterator.HasMoreResults)
+            {
+                FeedResponse<T> result = await iterator.ReadNextAsync();
+                foreach (var item in result)
+                {
+                    results.Add(item);
+                }
+            }
+            return results;
+;
         }
     }
 }

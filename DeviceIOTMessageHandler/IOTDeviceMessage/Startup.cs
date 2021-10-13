@@ -17,6 +17,7 @@ namespace DependencyInjectionFunctions
         public override void Configure(IFunctionsHostBuilder builder)
         {
             builder.Services.AddSingleton<ITemperatureService, TemperatureService>();
+            builder.Services.AddSingleton<IPatientService, PatientService>();
             builder.SetupCosmosDb();
             builder.Services.AddLogging();
 
