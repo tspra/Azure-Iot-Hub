@@ -1,14 +1,12 @@
 import { ActionReducerMap } from "@ngrx/store";
-import { UserReducer,UserState } from "./user.reducer";
-import {  PatientReducer,PatientState} from "./patient.reducer";
+import { IUserState, reducer } from "./patient.reducer";
+
 
 
 export interface AppState {
-  userList: UserState;
-  patientState: PatientState;
+  patients:IUserState
 }
 
 export const reducers: ActionReducerMap<AppState> = {
-  userList: UserReducer,
-  patientState: PatientReducer
+  patients:reducer
 };

@@ -31,7 +31,7 @@ import { StoreModule } from '@ngrx/store';
 import { reducers } from './store/reducers';
 import { PatientService } from './service/patient.service';
 import { EffectsModule } from '@ngrx/effects';
-import { PatientEffects } from '../../src/app/store/effects/patient.effect';
+import { UserEffects } from './store/effects/patient.effect';
 
    
 
@@ -54,7 +54,8 @@ import { PatientEffects } from '../../src/app/store/effects/patient.effect';
     NgbModule,
     RouterModule.forRoot(Approutes, { useHash: false, relativeLinkResolution: 'legacy' }),
     StoreModule.forRoot(reducers),
-    EffectsModule.forRoot([PatientEffects]),
+    EffectsModule.forRoot([UserEffects]),
+   
   ],
   providers: [PatientService],
   bootstrap: [AppComponent]
