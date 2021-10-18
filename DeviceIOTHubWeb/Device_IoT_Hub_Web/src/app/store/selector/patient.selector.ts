@@ -2,9 +2,9 @@
 import { createFeatureSelector, createSelector } from "@ngrx/store";
 import { IUserState } from "../reducers/patient.reducer"
 
-const getUserState = createFeatureSelector<IUserState>('patients');
+const getPatientState = createFeatureSelector<IUserState>('patients');
 
-export const allUsers = createSelector(getUserState, (state: IUserState) => {
-    debugger;
+export const patients = createSelector(getPatientState, (state: IUserState) => {
+
     return state;
 });

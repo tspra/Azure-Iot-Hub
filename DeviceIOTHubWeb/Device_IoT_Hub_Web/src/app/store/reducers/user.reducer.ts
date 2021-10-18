@@ -2,7 +2,7 @@ import { UserAdd } from '../models/users.model';
 import { UserActions, UserActionTypes } from '../actions/users.action'
 import { Action } from '@ngrx/store';
 
-export interface UserState {
+export interface IUserState {
     userList: UserAdd[];
 }
 
@@ -11,7 +11,7 @@ const initialState = {
     ]
 };
 
-export function UserReducer(state:UserState = initialState, action: Action) {
+export function UserReducer(state:IUserState = initialState, action: Action) {
     const tutorialAction = action as UserActions;
     switch (tutorialAction.type) {
         case UserActionTypes.ADD_USER:

@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 import { select, Store } from '@ngrx/store';
 import { Observable } from 'rxjs';
-import { GetUserLoad, IUser } from 'src/app/store/actions/patient.action';
+import {  GetPatientLoad, IPatient } from 'src/app/store/actions/patient.action';
 import { UserAdd } from 'src/app/store/models/users.model';
 import { IUserState } from 'src/app/store/reducers/patient.reducer';
-import { allUsers } from 'src/app/store/selector/patient.selector';
+import { patients } from 'src/app/store/selector/patient.selector';
 
 
 @Component({
@@ -14,16 +14,14 @@ export class CardsComponent {
   localUserList: Observable<UserAdd[]>;
   userinput = { name: '', age: 0, email: '', address: '', id: '' }
 
-  users: IUser[] = [];
+  users: IPatient[] = [];
   public isLoading: boolean;
   constructor(
     private _store: Store<IUserState>) { }
 
   ngOnInit() {
-    debugger;
-    this._store.dispatch(new GetUserLoad());
-    const users$ = this._store.pipe(select(allUsers));
-
+    this._store.dispatch(new GetPatientLoad());
+    const users$ = this._store.pipe(select(patients));
     users$.subscribe(res => {
       debugger;
       this.isLoading = res.isLoading;

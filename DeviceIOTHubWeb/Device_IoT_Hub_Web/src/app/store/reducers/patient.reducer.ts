@@ -1,10 +1,10 @@
 import { Action } from "@ngrx/store";
-import { IUser, UserActions, UserActionTypes } from "../actions/patient.action";
+import { IPatient, PatientActions, PatientActionTypes } from "../actions/patient.action";
 
 
 
 export interface IUserState {
-    data: IUser[];
+    data: IPatient[];
     isLoading: boolean;
     message: string;
 }
@@ -17,9 +17,9 @@ const initialState: IUserState = {
 
 export function reducer(state = initialState, action: Action): IUserState {
 
-    let userAction = action as UserActions;
+    let userAction = action as PatientActions;
     switch (userAction.type) {
-        case UserActionTypes.GetUserLoad: 
+        case PatientActionTypes.GetPatientLoad: 
         debugger;
         {
             return {
@@ -28,7 +28,7 @@ export function reducer(state = initialState, action: Action): IUserState {
             }
         }
 
-        case UserActionTypes.GetUserSuccess: 
+        case PatientActionTypes.GetPatientSuccess: 
         debugger;{
             return {
                 ...state,
@@ -37,7 +37,7 @@ export function reducer(state = initialState, action: Action): IUserState {
                 message: 'Data fetch Successfully!'
             }
         }
-        case UserActionTypes.GetUserFail: {
+        case PatientActionTypes.GetPatientFail: {
             return {
                 data: [],
                 isLoading: false,
