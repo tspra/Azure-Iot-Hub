@@ -29,6 +29,9 @@ import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
 
 import { StoreModule } from '@ngrx/store';
 import { reducers } from './store/reducers';
+import { PatientService } from './service/patient.service';
+import { EffectsModule } from '@ngrx/effects';
+import { PatientEffects } from '../../src/app/store/effects/patient.effect';
 
    
 
@@ -50,9 +53,10 @@ import { reducers } from './store/reducers';
 	  PerfectScrollbarModule,
     NgbModule,
     RouterModule.forRoot(Approutes, { useHash: false, relativeLinkResolution: 'legacy' }),
-    StoreModule.forRoot(reducers)
+    StoreModule.forRoot(reducers),
+    EffectsModule.forRoot([PatientEffects]),
   ],
-  providers: [],
+  providers: [PatientService],
   bootstrap: [AppComponent]
 })
 export class AppModule {}
