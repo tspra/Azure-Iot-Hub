@@ -1,5 +1,6 @@
 import { Action } from "@ngrx/store";
-import { IPatient, PatientActions, PatientActionTypes } from "../actions/patient.action";
+import { PatientActions, PatientActionTypes } from "../actions/patient.action";
+import { IPatient } from "../models/patient.model";
 
 
 
@@ -20,7 +21,7 @@ export function reducer(state = initialState, action: Action): IUserState {
     let userAction = action as PatientActions;
     switch (userAction.type) {
         case PatientActionTypes.GetPatientLoad: 
-        debugger;
+     
         {
             return {
                 ...state,
@@ -29,7 +30,7 @@ export function reducer(state = initialState, action: Action): IUserState {
         }
 
         case PatientActionTypes.GetPatientSuccess: 
-        debugger;{
+       {
             return {
                 ...state,
                 data: userAction.payload,

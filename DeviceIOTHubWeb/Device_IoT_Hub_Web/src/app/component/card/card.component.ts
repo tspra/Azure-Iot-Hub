@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 import { select, Store } from '@ngrx/store';
 import { Observable } from 'rxjs';
-import {  GetPatientLoad, IPatient } from 'src/app/store/actions/patient.action';
+import {  GetPatientLoad } from 'src/app/store/actions/patient.action';
+import { IPatient } from 'src/app/store/models/patient.model';
 import { UserAdd } from 'src/app/store/models/users.model';
 import { IUserState } from 'src/app/store/reducers/patient.reducer';
 import { patients } from 'src/app/store/selector/patient.selector';

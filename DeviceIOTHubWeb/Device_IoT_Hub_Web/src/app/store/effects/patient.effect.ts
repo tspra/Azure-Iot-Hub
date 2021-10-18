@@ -6,8 +6,9 @@ import { Action } from "@ngrx/store";
 import { Observable, of } from "rxjs";
 import { catchError, map, mergeMap } from "rxjs/operators";
 import { PatientService } from "src/app/service/patient.service";
-import { GetPatientFail, GetPatientSuccess, IPatient, PatientActionTypes } from "../actions/patient.action";
+import { GetPatientFail, GetPatientSuccess,  PatientActionTypes } from "../actions/patient.action";
 import {PatientActions} from "../actions/patient.action"
+import { IPatient } from "../models/patient.model";
 
 @Injectable()
 export class PatientEffects {

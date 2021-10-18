@@ -4,7 +4,7 @@ import { Observable, Subject } from 'rxjs';
 
 import { environment } from '../../environments/environment';
 import * as SignalR from '@aspnet/signalr';
-import { SignalRConnection } from '../model/sconnection';
+import { SignalRConnection } from '../model/connection';
 
 @Injectable({
   providedIn: 'root'

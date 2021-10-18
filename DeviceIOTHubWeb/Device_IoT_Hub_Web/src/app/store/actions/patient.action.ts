@@ -1,12 +1,8 @@
 
 import { HttpErrorResponse } from "@angular/common/http";
 import { Action } from "@ngrx/store";
+import { IPatient } from "../models/patient.model";
 
-export interface IPatient {
-    id: number;
-    name: string;
-    age: number;
-}
 
 export enum PatientActionTypes {
     GetPatientLoad = '[Patient] Get Patient',
